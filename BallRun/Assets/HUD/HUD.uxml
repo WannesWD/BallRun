@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:ProgressBar value="22" title="my-progress" name="PlayerHealthBar" style="align-self: flex-end; width: 20%;" />
+    <ui:ProgressBar value="22" title="my-progress" name="NumJumps" style="max-width: 50%; align-items: stretch; justify-content: flex-start; align-self: center; flex-direction: column; top: 80%;" />
+</ui:UXML>
